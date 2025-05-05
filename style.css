@@ -37,9 +37,27 @@ a{
     .container{
         max-width: 1000px;
         margin: auto;}
+
+        /*HEADER*/
      .logo{
             width: 200px ;
         }
         .border {
             border-bottom: solid black 1px;
+        }
+
+        .width30{
+            width: 30%;
+        }
+        
+        .width40{
+            width: 40%;
+        }
+        
+        .width45{
+            width: 45%;
+        }
+        
+        .textCenter{
+            text-align: center;
         }
