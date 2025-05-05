@@ -311,13 +311,24 @@ les resolutions d'ecrans d'apres un petit script sass*/
 
 /*RESPONSIVE TABLETTE*/
 @media all and (max-width:900px) {
+    body{
+        background-color: aqua;
+    }
     h2 {
         color: yellow;
+    }
+    .medium-12 {
+        width: 100%;
+    }
+
+    .medium-4 {
+        width: 40%;
     }
 
 }
 
 /* RESPONSIVE SMARTPHONE */
+
 @media all and (max-width:600px) {
     body {
         background-color: red;
@@ -326,5 +337,13 @@ les resolutions d'ecrans d'apres un petit script sass*/
 
     h2 {
         color: blue;
+    }
+
+    .small-12 {
+        width: 100%;
+    }
+
+    .small-6 {
+        width: 50%;
     }
 }
