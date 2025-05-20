@@ -1,0 +1,292 @@
+
+[
+    
+    {
+       "nom":"spaghetti bolognaise",
+       "img":[
+            "https://images.pexels.com/photos/4349774/pexels-photo-4349774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "https://images.pexels.com/photos/128408/pexels-photo-128408.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "https://images.pexels.com/photos/19532090/pexels-photo-19532090/free-photo-of-pasta-served-in-a-restaurant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "https://images.pexels.com/photos/4057736/pexels-photo-4057736.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+       ],
+       "desc": "Ce classique de la cuisine italienne peut être personnalisé en ajoutant des herbes fraîches comme du basilic ou de l'origan. Vous pouvez également remplacer la viande par une alternative végétale pour une version végétarienne.",
+       "difficulte":"moyenne",
+       "tempPreparation":"40 min",
+       "tempCuisson":"1h20",
+       "portions":4,
+       "ingredients":[
+          {
+             "quantite":500,
+             "unite":"g",
+             "aliment":"de spaghetti"
+          },
+          {
+             "quantite":500,
+             "unite":"g",
+             "aliment":"de viande hachée"
+          },
+          {
+             "quantite":2,
+             "unite":"gousse",
+             "aliment":"d'ail"
+          },
+          {
+             "quantite":1,
+             "unite":"g",
+             "aliment":"carotte"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"oignon"
+          },
+          {
+             "quantite":1,
+             "unite":"branche",
+             "aliment":"de céleris"
+          },
+          {
+             "quantite":850,
+             "unite":"g",
+             "aliment":"de tomates (fraiches ou en boîte)"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à soupe",
+             "aliment":"de concentré de tomate"
+          },
+          {
+             "quantite":1,
+             "unite":"cube",
+             "aliment":"de bouillon de volaille"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à soupe",
+             "aliment":"d'huile d'olive"
+          },
+          {
+             "quantite":1,
+             "unite":"pincée",
+             "aliment":"de sel et de poivre"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à café",
+             "aliment":"de sucre"
+          }
+       ],
+       "etapes":[
+          {
+             "numeroEtape":1,
+             "descEtape":"Hachez l'ail, l'oignon, puis coupez la carotte et le céleri en petits dés (enlevez les principales nervures du céleri)."
+          },
+          {
+             "numeroEtape":2,
+             "descEtape":"Faites chauffer l'huile dans une casserole assez grande. Faites revenir l'ail, l'oignon, la carotte et le céleri à feu doux pendant 5 min en remuant."
+          },
+          {
+             "numeroEtape":3,
+             "descEtape":"Augmenter la flamme, puis ajoutez le boeuf. Faites brunir et remuez de façon à ce que la viande ne fasse pas de gros paquets. "
+          },
+          {
+             "numeroEtape":4,
+             "descEtape":"Ajoutez le bouillon, les tomates préalablement coupées assez grossièrement, le sucre et le persil haché. Portez à ébullition."
+          },
+          {
+             "numeroEtape":5,
+             "descEtape":"Baisser ensuite le feu et laissez mijoter à couvert 1h à 1h30, de façon à ce que le vin s'évapore."
+          },
+          {
+             "numeroEtape":6,
+             "descEtape":"Faites cuire les spaghetti, puis mettez-les dans un plat."
+          },
+          {
+             "numeroEtape":7,
+             "descEtape":"Ajoutez la sauce bolognaise."
+          }
+       ],
+       "saison":"toutes saisons"
+    },
+    {
+       "nom":"Chili con carne",
+       "img":[
+        "https://images.pexels.com/photos/14866629/pexels-photo-14866629.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/6358978/pexels-photo-6358978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/27590338/pexels-photo-27590338/free-photo-of-beet-carne-asada-tacos.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/8230019/pexels-photo-8230019.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+               ],
+        "desc": "Ce plat épicé peut être ajusté selon vos goûts : augmentez ou réduisez la quantité de piment, ou ajoutez du maïs pour une touche sucrée. Il est aussi possible de remplacer la viande par du tofu ou des lentilles pour une version végétarienne savoureuse.",
+       "difficulte":"facile",
+       "tempPreparation":"20 min",
+       "tempCuisson":"2h",
+       "portions":6,
+       "ingredients":[
+          {
+             "quantite":500,
+             "unite":"g",
+             "aliment":"de viande hachée (bœuf ou porc)"
+          },
+          {
+             "quantite":2,
+             "unite":"gousse",
+             "aliment":"d'ail"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"oignon"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"poivron rouge"
+          },
+          {
+             "quantite":1,
+             "unite":"boite",
+             "aliment":"de haricots rouges"
+          },
+          {
+             "quantite":850,
+             "unite":"g",
+             "aliment":"de tomates en conserve"
+          },
+          {
+             "quantite":2,
+             "unite":"cuillères à soupe",
+             "aliment":"de poudre de chili"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à café",
+             "aliment":"de cumin en poudre"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à café",
+             "aliment":"de coriandre en poudre"
+          },
+          {
+             "quantite":1,
+             "unite":"cuillère à soupe",
+             "aliment":"d'huile d'olive"
+          },
+          {
+             "quantite":1,
+             "unite":"pincée",
+             "aliment":"de sel et de poivre"
+          }
+       ],
+       "etapes":[
+          {
+             "numeroEtape":1,
+             "descEtape":"Hacher l'ail et l'oignon, couper le poivron en petits dés."
+          },
+          {
+             "numeroEtape":2,
+             "descEtape":"Faire chauffer l'huile dans une grande casserole et faire revenir l'ail, l'oignon et le poivron pendant 5 minutes."
+          },
+          {
+             "numeroEtape":3,
+             "descEtape":"Ajouter la viande hachée et faire cuire jusqu'à ce qu'elle soit bien dorée."
+          },
+          {
+             "numeroEtape":4,
+             "descEtape":"Ajouter les tomates en conserve, les haricots rouges égouttés, la poudre de chili, le cumin, la coriandre, le sel et le poivre. Bien mélanger."
+          },
+          {
+             "numeroEtape":5,
+             "descEtape":"Laisser mijoter à feu doux pendant 2 heures."
+          },
+          {
+             "numeroEtape":6,
+             "descEtape":"Servir chaud avec du riz ou des tortillas."
+          }
+       ],
+       "saison":"toutes saisons"
+    },
+    {
+       "nom":"Salade de quinoa et de légumes grillés",
+       "img":[
+        "https://images.pexels.com/photos/3872365/pexels-photo-3872365.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/9893187/pexels-photo-9893187.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/9214013/pexels-photo-9214013.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/9213862/pexels-photo-9213862.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+               ],
+        "desc": "Cette salade est très flexible : vous pouvez varier les légumes selon la saison ou ajouter des légumineuses comme des pois chiches pour plus de protéines. Un filet de citron ou une sauce au yaourt peut apporter une touche de fraîcheur.",
+       "difficulte":"facile",
+       "tempPreparation":"20 min",
+       "tempCuisson":"25 min",
+       "portions":6,
+       "ingredients":[
+          {
+             "quantite":1,
+             "unite":"tasse",
+             "aliment":"de quinoa"
+          },
+          {
+             "quantite":2,
+             "unite":"tasses",
+             "aliment":"d'eau"
+          },
+          {
+             "quantite":2,
+             "unite":"",
+             "aliment":"poivrons rouges"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"courgette"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"aubergine"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"oignon rouge"
+          },
+          {
+             "quantite":2,
+             "unite":"gousses",
+             "aliment":"d'ail'"
+          },
+          {
+             "quantite":2,
+             "unite":"cuillères à soupe",
+             "aliment":"d'huile d'olive"
+          },
+          {
+             "quantite":1,
+             "unite":"pincée",
+             "aliment":"de sel et de poivre"
+          },
+          {
+             "quantite":1,
+             "unite":"",
+             "aliment":"citron"
+          }
+       ],
+       "etapes":[
+          {
+             "numeroEtape":1,
+             "descEtape":"Préchauffez le four à 200°C."
+          },
+          {
+             "numeroEtape":2,
+             "descEtape":"Dans une casserole, faites cuire le quinoa dans l'eau bouillante pendant 15 minutes."
+          },
+          {
+             "numeroEtape":3,
+             "descEtape":"Coupez les poivrons, la courgette, l'auberg..."
+
+          }
+        ]
+
+    }
+
+]
