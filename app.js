@@ -122,7 +122,7 @@ function afficher(tableauProduits) {
         let etape= " "
 
         etapes.forEach(i => {
-        etape +=`<li> ${i.numeroEtape} ${i.descEtape} </li>`
+        etape +=`<li> ${i.descEtape} </li>`
          
         }
         )
