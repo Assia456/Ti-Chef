@@ -20,7 +20,7 @@ function afficher(tableauProduits) {
         let desc = recette.desc
         let tempsPreparation = recette.tempPreparation
         let tempsCuisson = recette.tempCuisson
-        let portion = recette.portion
+        let portion = recette.portions
         let srcImg = recette.img
         let ingredientsli= liste(recette.ingredients)
         let etapeli =Etape(recette.etapes)
