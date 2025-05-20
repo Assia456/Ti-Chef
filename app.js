@@ -129,3 +129,7 @@ function afficher(tableauProduits) {
      console.log(Etape)
      return etape
     }
+
+    function article(carte){
+
+    }

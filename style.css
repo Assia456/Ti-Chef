@@ -145,6 +145,7 @@ a {
     font-size: 13px;
     margin-top: 64px;
     border-radius: 20px;
+    
 }
 
 .card ul,
@@ -157,6 +158,10 @@ a {
     padding: 8px 16px;
     border: 1px solid var(--orange);
     border-radius: 32px;
+}
+
+.left {
+    margin-left: 50%;
 }
 
 .little-btn {
@@ -311,12 +316,14 @@ les resolutions d'ecrans d'apres un petit script sass*/
 
 /*RESPONSIVE TABLETTE*/
 @media all and (max-width:900px) {
-    body{
+    body {
         background-color: aqua;
     }
+
     h2 {
         color: yellow;
     }
+
     .medium-12 {
         width: 100%;
     }
@@ -348,3 +355,12 @@ les resolutions d'ecrans d'apres un petit script sass*/
     }
 }
 
+.gap-12 {
+    gap: 12px;
+}
+
+.img-card {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
