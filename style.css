@@ -364,3 +364,7 @@ les resolutions d'ecrans d'apres un petit script sass*/
     object-fit: cover;
     border-radius: 10px;
 }
+
+.gap{
+    gap: 20px;
+}

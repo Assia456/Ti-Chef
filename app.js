@@ -130,6 +130,45 @@ function afficher(tableauProduits) {
      return etape
     }
 
-    function article(carte){
+    fetch("articles-data.json")
+    .then(response => response.json())
+    .then(data => {
+        //ici et uniquement ici j'ai acces a mon tablea de données
+        afficherArticles(data)
 
-    }
+    });
+
+function afficherArticles(tab){
+    tab.forEach(article=>{
+        let titre=article.titre
+   let img=article.img
+   let resume=article.resume
+   let auteur=article.auteur
+   let date=article.date
+
+
+    document.getElementById("cardArticle").innerHTML += `
+    <div class="card large-6 flex gap align-center" id="cardArticle">
+            <!-- partie gauche -->
+            <img src="${img}" alt=" " class="large-6 img-card" />
+
+            <!-- partie de droite -->
+            <div class="large-6 flex gap-12 ">
+                <h3>${titre}</h3>
+                <div class="flex justify-between large-12 align-center">
+                    <p>${date}</p>
+                    <p>${auteur}</p>   
+                </div>
+                <p>
+                   ${resume}
+                </p>
+                <p class="btn left">Lire l'article</p>
+
+            </div>
+        </div>
+` })
+    
+}
+
+
+   
